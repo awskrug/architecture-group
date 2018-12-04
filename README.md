@@ -19,7 +19,7 @@
 ## 발표 세션
 
 - 정도현 (AWS) "AWS re:Invent 2018 Review"
-- 이주경 (DaumSoft) "인공지능 로봇 저널리즘"
+- 이주경 (DaumSoft) "인공지능 로봇 저널리즘" [[link](resources/인공지능리포트-AWS-KOR-2018-11-29.pptx)]
 
 ## 긴급 토론
 

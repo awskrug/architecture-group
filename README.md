@@ -1,14 +1,14 @@
 /* 해당 문서는 이전 모임 내용까지 모두 포함합니다. (역순) */
 
-# AWSKRUG architecture 소모임 17번째 모임 (연말통합모임)
+# AWSKRUG architecture 소모임 17번째 모임 (연말 통합모임)
 
 ## Introduction
 
 - 일시: 2018년 12월 20일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청: 
+- 참가 신청: https://festa.io/events/172
 - Slack channel: #architecture
-- 회비: 5,000원
+- 회비: 5,000 ~ 10,000원
 - 정산
   - 수입(회비): 0원
   - 지출(간식): 0원

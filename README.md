@@ -6,7 +6,9 @@
 
 - 일시: 2018년 12월 20일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- 참가 신청: https://festa.io/events/172
+- 참가 신청:
+  - https://festa.io/events/172
+  - https://www.meetup.com/awskrug/events/257050186/
 - Slack channel: #architecture
 - 회비: 5,000 ~ 10,000원
 - 정산

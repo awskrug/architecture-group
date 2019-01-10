@@ -506,7 +506,8 @@
 
 ## 발표 세션
 
-- 권민재 - (TBA)
+- 권민재 - "Building a serverless application with AWS"
+  - https://speakerdeck.com/mingrammer/building-a-serverless-application-with-aws
 - 송주영 - (비공개)
 
 ## 참가자 건의 사항

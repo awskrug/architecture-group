@@ -9,7 +9,7 @@
 - 참가 신청:
   - https://www.meetup.com/awskrug/events/257735196/
 - Slack channel: #architecture
-- 회비: 5,000 ~ 10,000원
+- 회비: 5,000원
 - 정산
   - 수입(회비): (TBD)원
   - 지출(간식): (TBD)원
@@ -19,7 +19,7 @@
 ## 발표 세션
 
 - (뒤끝) 권오현 CEO: "BaaS 아키텍트의 고민"
-- (OSCI) 김세연: (TBA)
+- (OSCI) 김세연: "DevOps 최고의 친구 AWS"
 
 ## 다음 모임 날짜
 

@@ -27,6 +27,9 @@
 
 ## 다음 발표 지원자
 
+- (TBD)
+- (TBD)
+
 # AWSKRUG architecture 소모임 17번째 모임 (연말 통합모임)
 
 ## Introduction

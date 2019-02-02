@@ -19,7 +19,7 @@
 ## 발표 세션
 
 - (뒤끝) 권오현 CEO: "BaaS 아키텍트의 고민"
-- (OSCI) 김세연: "DevOps 최고의 친구 AWS"
+- (OSCI) 김세연: "DevOps 최고의 친구 AWS" [[link](resources/DevOpsBestFriend-AWS)]
 
 ## 다음 모임 날짜
 

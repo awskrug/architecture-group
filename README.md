@@ -1,5 +1,35 @@
 /* 해당 문서는 이전 모임 내용까지 모두 포함합니다. (역순) */
 
+# AWSKRUG architecture 소모임 19번째 모임
+
+## Introduction
+
+- 일시: 2019년 2월 28일 목요일 오후 7시
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 참가 신청:
+  - https://www.meetup.com/awskrug/events/258659987/
+- Slack channel: #architecture
+- 회비: 5,000원
+- 정산
+  - 수입(회비): (TBD)
+  - 지출(간식): (TBD)
+  - 8월부터 누적 수입(회비): 2,265,000원
+  - 8월부터 누적 지출(간식): 2,031,340원
+
+## 발표 세션
+
+- (선데이토즈) 권오현 CEO: "BaaS 아키텍트의 고민"
+- (TBD)
+
+## 다음 모임 날짜
+
+- 2019년 3월 28일 목요일 저녁 7시 GS tower 12F
+
+## 다음 발표 지원자
+
+- (TBD)
+- (TBD)
+
 # AWSKRUG architecture 소모임 18번째 모임
 
 ## Introduction

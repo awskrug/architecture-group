@@ -5,7 +5,7 @@
 ## Introduction
 
 - 일시: 2019년 2월 28일 목요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 14층 (지하철 2호선 역삼역 7번 출구)
 - 참가 신청:
   - https://www.meetup.com/awskrug/events/258659987/
 - Slack channel: #architecture

@@ -27,7 +27,7 @@
 
 ## 다음 발표 지원자
 
-- (JOYI) 김태영 CTO
+- (ZOYI) 김태영 CTO
 - (AWS) 정도현
 
 # AWSKRUG architecture 소모임 18번째 모임

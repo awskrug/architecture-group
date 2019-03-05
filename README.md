@@ -3,7 +3,7 @@
 # AWS KRUG architecture 일반 사항
 
 - Slack channel: #architecture
-- 회비: 5,000원
+- 회비: 5,000원 (카카오뱅크: 3333-02-6879426, 예금주: 한종원)
 - 정산
   - 마지막 모임 수입(회비): (TBD)
   - 마지막 모임 지출(간식): (TBD)
@@ -12,7 +12,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 20번째 모임
+# AWS KRUG architecture 소모임 20번째 모임
 
 ## Introduction
 
@@ -27,7 +27,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 19번째 모임
+# AWS KRUG architecture 소모임 19번째 모임
 
 ## Introduction
 
@@ -42,7 +42,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 18번째 모임
+# AWS KRUG architecture 소모임 18번째 모임
 
 ## Introduction
 
@@ -57,7 +57,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 17번째 모임 (연말 통합모임)
+# AWS KRUG architecture 소모임 17번째 모임 (연말 통합모임)
 
 ## Introduction
 
@@ -73,7 +73,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 16번째 모임
+# AWS KRUG architecture 소모임 16번째 모임
 
 ## Introduction
 
@@ -93,7 +93,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 15번째 모임
+# AWS KRUG architecture 소모임 15번째 모임
 
 ## Introduction
 
@@ -109,7 +109,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 14번째 모임 (통합모임)
+# AWS KRUG architecture 소모임 14번째 모임 (통합모임)
 
 ## Introduction
 
@@ -119,7 +119,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 13번째 모임
+# AWS KRUG architecture 소모임 13번째 모임
 
 ## Introduction
 
@@ -136,7 +136,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 12번째 모임
+# AWS KRUG architecture 소모임 12번째 모임
 
 ## Introduction
 
@@ -154,7 +154,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 11번째 모임
+# AWS KRUG architecture 소모임 11번째 모임
 
 ## Introduction
 
@@ -171,7 +171,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 10번째 모임
+# AWS KRUG architecture 소모임 10번째 모임
 
 ## Introduction
 
@@ -187,7 +187,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 9번째 모임
+# AWS KRUG architecture 소모임 9번째 모임
 
 ## Introduction
 
@@ -205,7 +205,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 8번째 모임
+# AWS KRUG architecture 소모임 8번째 모임
 
 ## Introduction
 
@@ -222,7 +222,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 7번째 모임
+# AWS KRUG architecture 소모임 7번째 모임
 
 ## Introduction
 
@@ -239,7 +239,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 6번째 모임
+# AWS KRUG architecture 소모임 6번째 모임
 
 ## Introduction
 
@@ -256,7 +256,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 5번째 모임
+# AWS KRUG architecture 소모임 5번째 모임
 
 ## Introduction
 
@@ -272,7 +272,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 4번째 모임
+# AWS KRUG architecture 소모임 4번째 모임
 
 ## Introduction
 
@@ -289,7 +289,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 3번째 모임
+# AWS KRUG architecture 소모임 3번째 모임
 
 ## Introduction
 
@@ -304,7 +304,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 2번째 모임
+# AWS KRUG architecture 소모임 2번째 모임
 
 ## Introduction
 
@@ -320,7 +320,7 @@
 
 ---
 
-# AWSKRUG architecture 소모임 1번째 모임
+# AWS KRUG architecture 소모임 1번째 모임
 
 ## Introduction
 

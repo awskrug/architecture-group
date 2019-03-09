@@ -38,7 +38,7 @@
 ## 발표 세션
 
 - (선데이토즈) 권민재: "IDC에서 AWS로 Redis 데이터 이전하기"
-- (VCNC) 김태호: "서비스 중단 없이 Amazon EKS로 옮긴 이야기"
+- (VCNC) 김태호: "서비스 중단 없이 Amazon EKS로 옮긴 이야기" [[link](https://docs.google.com/presentation/d/1jW5Y0Ea3tli3P1YdeCi_2F_ZfXp8q1NPOhHN-_XNGuc/edit?usp=sharing)]
 
 ---
 

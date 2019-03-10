@@ -83,13 +83,12 @@
 
 ## 발표 세션
 
-- 정도현 (AWS) "AWS re:Invent 2018 Review"
-- 이주경 (DaumSoft) "인공지능 로봇 저널리즘" [[link](resources/인공지능리포트-AWS-KOR-2018-11-29.pptx)]
+- 정도현 (AWS): "AWS re:Invent 2018 Review"
+- 이주경 (DaumSoft): "인공지능 로봇 저널리즘" [[link](resources/인공지능리포트-AWS-KOR-2018-11-29.pptx)]
 
 ## 긴급 토론
 
-- "AWS 장애에 대비하는 우리의 자세"
-  - 지난 11월 22일 Seoul region 장애 관련 경험 공유 및 대비책
+- "AWS 장애에 대비하는 우리의 자세": 지난 11월 22일 Seoul region 장애 관련 경험 공유 및 대비책
 
 ---
 
@@ -99,13 +98,12 @@
 
 - 일시: 2018년 10월 25일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/254844272
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/254844272)]
 
 ## 발표 세션
 
-- 한승호(Emmental) - AWS 아키텍처 고민 SaaS, PaaS, IaaS
-- 이상현(Vingle) - Serverless로 하는 Cross-Region Cache
-  - https://www.icloud.com/keynote/0_NR8QITh1B0S6jDxoq0a4JTQ#Architecture_-_2
+- 한승호(Emmental CTO): "AWS 아키텍처 고민 SaaS, PaaS, IaaS"
+- 이상현(Vingle): "Serverless로 하는 Cross-Region Cache" [[link](https://www.icloud.com/keynote/0_NR8QITh1B0S6jDxoq0a4JTQ#Architecture_-_2)]
 
 ---
 
@@ -115,7 +113,7 @@
 
 - 일시: 2018년 9월 19일 목요일 오후 7시
 - 장소: 선릉역 디캠프 6층 대회의실
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/254585156
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/254585156)]
 
 ---
 
@@ -125,7 +123,7 @@
 
 - 일시: 2018년 8월 30일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/253186124/
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/253186124/)]
 
 ## 발표 세션
 
@@ -140,12 +138,11 @@
 
 - 일시: 2018년 7월 26일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청 [[link](https://www.meetup.com/awskrug/events/252249556/)]
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/252249556/)]
 
 ## 발표 세션
 
 - 박상원(DeepNatural CEO): "Sentiment Analysis API on AWS Lambda (feat. SAM, BotHub.Studio)" [[link](https://www.slideshare.net/SangwonPark8/sentiment-analysis-api-on-aws-lambda-feat-sam-bothubstudio-107594101)]
-
 - 한종원(HBSmith): "RDS Aurora에 40억건 데이터 입력하기" [[link](https://www.slideshare.net/addnull/20180726-aws-krug-rds-aurora-40-107532095)]
 
 ---
@@ -156,14 +153,12 @@
 
 - 일시: 2018년 6월 28일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/251282069/
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/251282069/)]
 
 ## 발표 세션
 
-- Arun Gupta - Intro to Amazon Elastic Container Service for Kubernetes (EKS)
-  - https://www.slideshare.net/AmazonWebServices/new-launch-introducing-amazon-eks-con215-reinvent-2017
-  - https://www.youtube.com/watch?v=WHTejF3W0s4
-- 최경훈 - 
+- Arun Gupta(AWS): "Intro to Amazon Elastic Container Service for Kubernetes (EKS) [[link](https://www.slideshare.net/AmazonWebServices/new-launch-introducing-amazon-eks-con215-reinvent-2017)], [[link](https://www.youtube.com/watch?v=WHTejF3W0s4)]
+- 최경훈: (TBD)
 
 ---
 
@@ -173,13 +168,12 @@
 
 - 일시: 2018년 5월 31일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/250204145/
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/250204145/)]
 
 ## 발표 세션
 
-- 정도현(AWS) - 변화 관리 측면에서 살펴본 소프트웨어 아키텍처 개선 프로세스에 대한 고찰
-  - https://www.slideshare.net/awskr/aws-20180531
-- 박병진(옴니어스) - 마이크로서비스 아키텍처를 향하여
+- 정도현(AWS): "변화 관리 측면에서 살펴본 소프트웨어 아키텍처 개선 프로세스에 대한 고찰" [[link](https://www.slideshare.net/awskr/aws-20180531)]
+- 박병진(옴니어스): "마이크로서비스 아키텍처를 향하여"
 
 ---
 
@@ -189,15 +183,12 @@
 
 - 일시: 2018년 4월 26일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/249218632/
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/249218632/)]
 
 ## 발표 세션
 
-- 현창훈(모두의주차장) - AWS SAM을 이용한 모놀리식 서버리스 어플리케이션 운영하기
-  - https://www.slideshare.net/changhoonhyun/aws-sam
-- 이무열(빙글) - Serverless 기반 Media Pipeline 구축 사례
-  - https://www.slideshare.net/mooyoul/serverless-media-workflow-95267586
-  - Vingle에서 비디오 서비스를 위해 Lambda, Step Functions, Cloudfront, S3 기반의 Media Pipeline을 구축한 사례를 소개합니다. Elastic Transcoder 및 Elemental MediaConvert를 선택하지 않고 인하우스 솔루션을 구축한 이유와 Lambda의 제약사항들을 해결할 수 있는 방법들을 공유합니다.
+- 현창훈(모두의주차장): "AWS SAM을 이용한 모놀리식 서버리스 어플리케이션 운영하기" [[link](https://www.slideshare.net/changhoonhyun/aws-sam)]
+- 이무열(Vingle): "Serverless 기반 Media Pipeline 구축 사례" [[link](https://www.slideshare.net/mooyoul/serverless-media-workflow-95267586)]
 
 ---
 
@@ -207,14 +198,12 @@
 
 - 일시: 2018년 3월 28일 수요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/248241986/
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/248241986/)]
 
 ## 발표 세션
 
-- 한승호 - AWS X-Ray를 활용한 서비스 건강검진
-  - "에멘탈은 ECS로 구축된 서비스의 모니터링 & 디버깅을 위해 AWS X-Ray를 이용하고 있습니다. X-Ray를 효과적으로 사용한 경험담과 다양한 활용 팁을 소개합니다."
-  - https://www.slideshare.net/shilpe34/aws-xray-emmental-94644431
-- 차영민 - 서버리스 기반 Lambda Pipelining
+- 한승호(Emmental CTO): "AWS X-Ray를 활용한 서비스 건강검진" [[link](https://www.slideshare.net/shilpe34/aws-xray-emmental-94644431)]
+- 차영민: "서버리스 기반 Lambda Pipelining"
 
 ---
 

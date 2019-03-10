@@ -1,6 +1,6 @@
-/* 해당 문서는 이전 모임 내용까지 모두 포함합니다. (역순) */
+# AWS KRUG architecture 소모임 
 
-# AWS KRUG architecture 일반 사항
+## 일반 사항
 
 - Slack channel: #architecture
 - 회비: 5,000원 (카카오뱅크: 3333-02-6879426, 예금주: 한종원)
@@ -10,32 +10,33 @@
   - 8월부터 누적 수입(회비): 2,400,000원
   - 8월부터 누적 지출(간식): 2,148,610원
 
+## 지난 모임 history
 ---
 
-# AWS KRUG architecture 소모임 20번째 모임
+## 20번째 모임
 
-## Introduction
+### Introduction
 
 - 일시: 2019년 3월 28일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/259511132/)]
 
-## 발표 세션
+### 발표 세션
 
 - 김태영 (ZOYI CTO): 
 - 정도현 (AWS):
 
 ---
 
-# AWS KRUG architecture 소모임 19번째 모임
+## 19번째 모임
 
-## Introduction
+### Introduction
 
 - 일시: 2019년 2월 28일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 14층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/258659987/)]
 
-## 발표 세션
+### 발표 세션
 
 - 권민재(선데이토즈): "IDC에서 AWS로 Redis 데이터 이전하기"
 - 김태호(VCNC): "서비스 중단 없이 Amazon EKS로 옮긴 이야기" [[link](https://docs.google.com/presentation/d/1jW5Y0Ea3tli3P1YdeCi_2F_ZfXp8q1NPOhHN-_XNGuc/edit?usp=sharing)]

@@ -1,6 +1,4 @@
-# AWS KRUG architecture 소모임 
-
-## 일반 사항
+# AWS KRUG architecture 소모임
 
 - Slack channel: #architecture
 - 회비: 5,000원 (카카오뱅크: 3333-02-6879426, 예금주: 한종원)
@@ -10,7 +8,7 @@
   - 8월부터 누적 수입(회비): 2,400,000원
   - 8월부터 누적 지출(간식): 2,148,610원
 
-## 지난 모임 history
+---
 
 ### 20번째 모임 (2019년 3월 28일 목요일 오후 7시)
 
@@ -247,5 +245,3 @@
 
 - 한종원(HBSmith CEO) "HB Smith에서는 AWS 이렇게 사용한다." [[link](https://www.slideshare.net/addnull/20170829-hb-smith-aws)]
 - 이상현(Vingle): "Serverless Microservice Architecture로의 전환"
-
----

@@ -29,8 +29,8 @@
 
 #### 발표 세션
 
-- 권민재(선데이토즈): "IDC에서 AWS로 Redis 데이터 이전하기"
-- 김태호(VCNC): "서비스 중단 없이 Amazon EKS로 옮긴 이야기" [[link](https://docs.google.com/presentation/d/1jW5Y0Ea3tli3P1YdeCi_2F_ZfXp8q1NPOhHN-_XNGuc/edit?usp=sharing)]
+- 권민재 (선데이토즈): "IDC에서 AWS로 Redis 데이터 이전하기"
+- 김태호 (VCNC): "서비스 중단 없이 Amazon EKS로 옮긴 이야기" [[link](https://docs.google.com/presentation/d/1jW5Y0Ea3tli3P1YdeCi_2F_ZfXp8q1NPOhHN-_XNGuc/edit?usp=sharing)]
 
 ---
 
@@ -41,8 +41,8 @@
 
 #### 발표 세션
 
-- 권오현(뒤끝 CEO): "BaaS 아키텍트의 고민"
-- 김세연(OSCI): "DevOps 최고의 친구 AWS" [[link](resources/DevOpsBestFriend-AWS.pdf)]
+- 권오현 (뒤끝 CEO): "BaaS 아키텍트의 고민"
+- 김세연 (OSCI): "DevOps 최고의 친구 AWS" [[link](resources/DevOpsBestFriend-AWS.pdf)]
 
 ---
 
@@ -53,7 +53,7 @@
 
 #### 발표 세션
 
-- (크라우드픽) 김규홍 CTO: "스타트업에서 아둥바둥 혼자 개발해 온 이야기"
+- 김규홍 (CrowdPic CTO): "스타트업에서 아둥바둥 혼자 개발해 온 이야기"
 
 ---
 
@@ -80,8 +80,8 @@
 
 #### 발표 세션
 
-- 한승호(Emmental CTO): "AWS 아키텍처 고민 SaaS, PaaS, IaaS"
-- 이상현(Vingle): "Serverless로 하는 Cross-Region Cache" [[link](https://www.icloud.com/keynote/0_NR8QITh1B0S6jDxoq0a4JTQ#Architecture_-_2)]
+- 한승호 (Emmental CTO): "AWS 아키텍처 고민 SaaS, PaaS, IaaS"
+- 이상현 (Vingle): "Serverless로 하는 Cross-Region Cache" [[link](https://www.icloud.com/keynote/0_NR8QITh1B0S6jDxoq0a4JTQ#Architecture_-_2)]
 
 ---
 
@@ -99,8 +99,8 @@
 
 #### 발표 세션
 
-- 조용진(모두의캠퍼스): "신입개발자가 스타트업에서 AWS로 어떻게든 살아가는 썰" [[link](https://www.slideshare.net/ssuser67b08e/aws-112573762)]
-- 현창훈(HBSmith): "HBSmith에서는 AWS 이렇게 사용한다." [[link](https://www.slideshare.net/changhoonhyun/hbsmith-aws)]
+- 조용진 (모두의캠퍼스): "신입개발자가 스타트업에서 AWS로 어떻게든 살아가는 썰" [[link](https://www.slideshare.net/ssuser67b08e/aws-112573762)]
+- 현창훈 (HBSmith): "HBSmith에서는 AWS 이렇게 사용한다." [[link](https://www.slideshare.net/changhoonhyun/hbsmith-aws)]
 
 ---
 
@@ -111,8 +111,8 @@
 
 #### 발표 세션
 
-- 박상원(DeepNatural CEO): "Sentiment Analysis API on AWS Lambda (feat. SAM, BotHub.Studio)" [[link](https://www.slideshare.net/SangwonPark8/sentiment-analysis-api-on-aws-lambda-feat-sam-bothubstudio-107594101)]
-- 한종원(HBSmith): "RDS Aurora에 40억건 데이터 입력하기" [[link](https://www.slideshare.net/addnull/20180726-aws-krug-rds-aurora-40-107532095)]
+- 박상원 (DeepNatural CEO): "Sentiment Analysis API on AWS Lambda (feat. SAM, BotHub.Studio)" [[link](https://www.slideshare.net/SangwonPark8/sentiment-analysis-api-on-aws-lambda-feat-sam-bothubstudio-107594101)]
+- 한종원 (HBSmith CEO): "RDS Aurora에 40억건 데이터 입력하기" [[link](https://www.slideshare.net/addnull/20180726-aws-krug-rds-aurora-40-107532095)]
 
 ---
 
@@ -123,7 +123,7 @@
 
 #### 발표 세션
 
-- Arun Gupta(AWS): "Intro to Amazon Elastic Container Service for Kubernetes (EKS) [[link](https://www.slideshare.net/AmazonWebServices/new-launch-introducing-amazon-eks-con215-reinvent-2017)], [[link](https://www.youtube.com/watch?v=WHTejF3W0s4)]
+- Arun Gupta (AWS): "Intro to Amazon Elastic Container Service for Kubernetes (EKS) [[link](https://www.slideshare.net/AmazonWebServices/new-launch-introducing-amazon-eks-con215-reinvent-2017)], [[link](https://www.youtube.com/watch?v=WHTejF3W0s4)]
 - 최경훈: (TBD)
 
 ---
@@ -135,8 +135,8 @@
 
 #### 발표 세션
 
-- 정도현(AWS): "변화 관리 측면에서 살펴본 소프트웨어 아키텍처 개선 프로세스에 대한 고찰" [[link](https://www.slideshare.net/awskr/aws-20180531)]
-- 박병진(옴니어스): "마이크로서비스 아키텍처를 향하여"
+- 정도현 (AWS): "변화 관리 측면에서 살펴본 소프트웨어 아키텍처 개선 프로세스에 대한 고찰" [[link](https://www.slideshare.net/awskr/aws-20180531)]
+- 박병진 (옴니어스): "마이크로서비스 아키텍처를 향하여"
 
 ---
 
@@ -147,8 +147,8 @@
 
 #### 발표 세션
 
-- 현창훈(모두의주차장): "AWS SAM을 이용한 모놀리식 서버리스 어플리케이션 운영하기" [[link](https://www.slideshare.net/changhoonhyun/aws-sam)]
-- 이무열(Vingle): "Serverless 기반 Media Pipeline 구축 사례" [[link](https://www.slideshare.net/mooyoul/serverless-media-workflow-95267586)]
+- 현창훈 (모두의주차장): "AWS SAM을 이용한 모놀리식 서버리스 어플리케이션 운영하기" [[link](https://www.slideshare.net/changhoonhyun/aws-sam)]
+- 이무열 (Vingle): "Serverless 기반 Media Pipeline 구축 사례" [[link](https://www.slideshare.net/mooyoul/serverless-media-workflow-95267586)]
 
 ---
 
@@ -159,7 +159,7 @@
 
 #### 발표 세션
 
-- 한승호(Emmental CTO): "AWS X-Ray를 활용한 서비스 건강검진" [[link](https://www.slideshare.net/shilpe34/aws-xray-emmental-94644431)]
+- 한승호 (Emmental CTO): "AWS X-Ray를 활용한 서비스 건강검진" [[link](https://www.slideshare.net/shilpe34/aws-xray-emmental-94644431)]
 - 차영민: "서버리스 기반 Lambda Pipelining"
 
 ---
@@ -171,7 +171,7 @@
 
 #### 발표 세션
 
-- 이수완(SalesBoost CTO): 세일즈부스트 인프라스트럭처 사례 공유 [[link](https://www.slideshare.net/blaswan/awskrug-89128384)]
+- 이수완 (SalesBoost CTO): 세일즈부스트 인프라스트럭처 사례 공유 [[link](https://www.slideshare.net/blaswan/awskrug-89128384)]
 - 최용호: 모바일 게임 하이브 런칭기 [[link](https://docs.google.com/presentation/d/189KfoSKvxt3ZO7WjBEDyNp_gYK6N8sXCliSUimyc3ik)]
 
 ---
@@ -183,8 +183,8 @@
 
 #### 발표 세션
 
-- 변규현(Movilest CTO): "Serverless Framework와 CircleCI를 활용한 NoOps맛보기" [[link](https://goo.gl/k8a6tF)]
-- 한종원(HBSmith CEO): "스타트업부터 대기업까지 AWS와 함께한 7년 (오랫동안 쓰면서 경험한, 알게된 것들)" [[link](https://www.slideshare.net/addnull/20180124-aws-7-86590677)]
+- 변규현 (Movilest CTO): "Serverless Framework와 CircleCI를 활용한 NoOps맛보기" [[link](https://goo.gl/k8a6tF)]
+- 한종원 (HBSmith CEO): "스타트업부터 대기업까지 AWS와 함께한 7년 (오랫동안 쓰면서 경험한, 알게된 것들)" [[link](https://www.slideshare.net/addnull/20180124-aws-7-86590677)]
 
 ---
 
@@ -195,8 +195,8 @@
 
 #### 발표 세션
 
-- 김창수(NaverLabs): (TBA)
-- 박상원(DeepNatural CEO): "ELB를 활용한 Socket.IO 멀티노드 구축사례" [[link](https://www.slideshare.net/SangwonPark8/elb-socketio-85188497)]
+- 김창수 (NaverLabs): (TBA)
+- 박상원 (DeepNatural CEO): "ELB를 활용한 Socket.IO 멀티노드 구축사례" [[link](https://www.slideshare.net/SangwonPark8/elb-socketio-85188497)]
 
 ---
 
@@ -207,8 +207,8 @@
 
 #### 발표 세션
 
-- 김승호(Snippod): "Python Scrapy Crawling with AWS Lambda" [[link](https://www.slideshare.net/secret/iYfpVXhn45xGaL)]
-- 윤제상(HBSmith CTO): "Project TIAMAT" [[link](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)]
+- 김승호 (Snippod): "Python Scrapy Crawling with AWS Lambda" [[link](https://www.slideshare.net/secret/iYfpVXhn45xGaL)]
+- 윤제상 (HBSmith CTO): "Project TIAMAT" [[link](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)]
 
 ---
 
@@ -219,8 +219,8 @@
 
 #### 발표 세션
 
-- 정도현(AWS): "Serverless EC2"
-- 송주영(삼성전자): "Microservice Architecture"
+- 정도현 (AWS): "Serverless EC2"
+- 송주영 (삼성전자): "Microservice Architecture"
 
 ---
 
@@ -231,8 +231,8 @@
 
 #### 발표 세션
 
-- 권민재(대학생): "Building a serverless application with AWS" [[link](https://speakerdeck.com/mingrammer/building-a-serverless-application-with-aws)]
-- 송주영(삼성전자): (비공개)
+- 권민재 (대학생): "Building a serverless application with AWS" [[link](https://speakerdeck.com/mingrammer/building-a-serverless-application-with-aws)]
+- 송주영 (삼성전자): (비공개)
 
 ---
 
@@ -243,5 +243,5 @@
 
 #### 발표 세션
 
-- 한종원(HBSmith CEO) "HB Smith에서는 AWS 이렇게 사용한다." [[link](https://www.slideshare.net/addnull/20170829-hb-smith-aws)]
-- 이상현(Vingle): "Serverless Microservice Architecture로의 전환"
+- 한종원 (HBSmith CEO) "HB Smith에서는 AWS 이렇게 사용한다." [[link](https://www.slideshare.net/addnull/20170829-hb-smith-aws)]
+- 이상현 (Vingle): "Serverless Microservice Architecture로의 전환"

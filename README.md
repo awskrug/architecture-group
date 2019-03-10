@@ -11,13 +11,11 @@
   - 8월부터 누적 지출(간식): 2,148,610원
 
 ## 지난 모임 history
----
 
-## 20번째 모임
+## 20번째 모임 (2019년 3월 28일 목요일 오후 7시)
 
 ### Introduction
 
-- 일시: 2019년 3월 28일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/259511132/)]
 
@@ -26,13 +24,10 @@
 - 김태영 (ZOYI CTO): 
 - 정도현 (AWS):
 
----
-
-## 19번째 모임
+## 19번째 모임 (2019년 2월 28일 목요일 오후 7시)
 
 ### Introduction
 
-- 일시: 2019년 2월 28일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 14층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/258659987/)]
 
@@ -41,53 +36,42 @@
 - 권민재(선데이토즈): "IDC에서 AWS로 Redis 데이터 이전하기"
 - 김태호(VCNC): "서비스 중단 없이 Amazon EKS로 옮긴 이야기" [[link](https://docs.google.com/presentation/d/1jW5Y0Ea3tli3P1YdeCi_2F_ZfXp8q1NPOhHN-_XNGuc/edit?usp=sharing)]
 
----
+## 18번째 모임 (2019년 1월 31일 목요일 오후 7시)
 
-# AWS KRUG architecture 소모임 18번째 모임
+### Introduction
 
-## Introduction
-
-- 일시: 2019년 1월 31일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/257735196/)]
 
-## 발표 세션
+### 발표 세션
 
 - 권오현(뒤끝 CEO): "BaaS 아키텍트의 고민"
 - 김세연(OSCI): "DevOps 최고의 친구 AWS" [[link](resources/DevOpsBestFriend-AWS.pdf)]
 
----
+## 17번째 모임, 연말 통합모임 (2018년 12월 20일 목요일 오후 7시)
 
-# AWS KRUG architecture 소모임 17번째 모임 (연말 통합모임)
+### Introduction
 
-## Introduction
-
-- 일시: 2018년 12월 20일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층
-- 참가 신청:
-  - festa [[link](https://festa.io/events/172)]
-  - meetup [[link](https://www.meetup.com/awskrug/events/257050186/)]
+- 참가 신청: festa [[link](https://festa.io/events/172)], meetup [[link](https://www.meetup.com/awskrug/events/257050186/)]
 
-## 발표 세션
+### 발표 세션
 
 - (크라우드픽) 김규홍 CTO: "스타트업에서 아둥바둥 혼자 개발해 온 이야기"
 
----
+## 16번째 모임 (2018년 11월 29일 목요일 오후 7시)
 
-# AWS KRUG architecture 소모임 16번째 모임
+### Introduction
 
-## Introduction
-
-- 일시: 2018년 11월 29일 목요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/255829698)]
 
-## 발표 세션
+### 발표 세션
 
 - 정도현 (AWS): "AWS re:Invent 2018 Review"
 - 이주경 (DaumSoft): "인공지능 로봇 저널리즘" [[link](resources/인공지능리포트-AWS-KOR-2018-11-29.pptx)]
 
-## 긴급 토론
+### 긴급 토론
 
 - "AWS 장애에 대비하는 우리의 자세": 지난 11월 22일 Seoul region 장애 관련 경험 공유 및 대비책
 

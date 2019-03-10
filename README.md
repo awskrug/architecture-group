@@ -245,14 +245,12 @@
 
 - 일시: 2018년 1월 24일 수요일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/246258812/
+- Meetup 참가 신청 [[link](https://www.meetup.com/awskrug/events/246258812/)]
 
 ## 발표 세션
 
-- 변규현 - "Serverless Framework와 CircleCI를 활용한 NoOps맛보기"
-  - https://goo.gl/k8a6tF
-- 한종원 - "스타트업부터 대기업까지 AWS와 함께한 7년 (오랫동안 쓰면서 경험한, 알게된 것들)"
-  - https://www.slideshare.net/addnull/20180124-aws-7-86590677
+- 변규현 - "Serverless Framework와 CircleCI를 활용한 NoOps맛보기" [[link](https://goo.gl/k8a6tF)]
+- 한종원 - "스타트업부터 대기업까지 AWS와 함께한 7년 (오랫동안 쓰면서 경험한, 알게된 것들)" [[link](https://www.slideshare.net/addnull/20180124-aws-7-86590677)]
 
 ---
 
@@ -262,13 +260,12 @@
 
 - 일시: 2017년 12월 27일 오후 7시
 - 장소: 서울시 강남구 역삼1동 논현로85길 46 갈라 빌딩 지하 1층 (지하철 2호선 역삼역 3번 출구에서 도보 5분)
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/245329775/
+- Meetup 참가 신청 [[link](https://www.meetup.com/awskrug/events/245329775/)]
 
 ## 발표 세션
 
 - 김창수 - (TBA)
-- 박상원 - "ELB를 활용한 Socket.IO 멀티노드 구축사례"
-  - https://www.slideshare.net/SangwonPark8/elb-socketio-85188497
+- 박상원 - "ELB를 활용한 Socket.IO 멀티노드 구축사례" [[link](https://www.slideshare.net/SangwonPark8/elb-socketio-85188497)]
 
 ---
 
@@ -278,14 +275,12 @@
 
 - 일시: 2017년 11월 22일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/244535010/
+- Meetup 참가 신청 [[link](https://www.meetup.com/awskrug/events/244535010/)]
 
 ## 발표 세션
 
-- 김승호 - "Python Scrapy Crawling with AWS Lambda"
-  - https://www.slideshare.net/secret/iYfpVXhn45xGaL
-- 윤제상 - "Project TIAMAT"
-  - https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code
+- 김승호 - "Python Scrapy Crawling with AWS Lambda" [[link](https://www.slideshare.net/secret/iYfpVXhn45xGaL)]
+- 윤제상 - "Project TIAMAT" [[link](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)]
 
 ---
 
@@ -295,7 +290,7 @@
 
 - 일시: 2017년 10월 25일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/243728154/
+- Meetup 참가 신청 [[link](https://www.meetup.com/awskrug/events/243728154/)]
 
 ## 발표 세션
 
@@ -310,12 +305,11 @@
 
 - 일시: 2017년 9월 27일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/242928340/
+- Meetup 참가 신청 [[link](https://www.meetup.com/awskrug/events/242928340/)]
 
 ## 발표 세션
 
-- 권민재 - "Building a serverless application with AWS"
-  - https://speakerdeck.com/mingrammer/building-a-serverless-application-with-aws
+- 권민재 - "Building a serverless application with AWS" [[link](https://speakerdeck.com/mingrammer/building-a-serverless-application-with-aws)]
 - 송주영 - (비공개)
 
 ---
@@ -326,10 +320,9 @@
 
 - 일시: 2017년 8월 29일 오후 7시
 - 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
-- Meetup 참가 신청: https://www.meetup.com/awskrug/events/242582753
+- Meetup 참가 신청 [[link](https://www.meetup.com/awskrug/events/242582753)]
 
 ## 발표 세션
 
-- 한종원 - "HB Smith에서는 AWS 이렇게 사용한다."
-  - https://www.slideshare.net/addnull/20170829-hb-smith-aws
+- 한종원 - "HB Smith에서는 AWS 이렇게 사용한다." [[link](https://www.slideshare.net/addnull/20170829-hb-smith-aws)]
 - 이상현 - "Serverless Microservice Architecture로의 전환"

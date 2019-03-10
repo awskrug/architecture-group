@@ -17,7 +17,7 @@
 ## Introduction
 
 - 일시: 2019년 3월 28일 목요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/259511132/)]
 
 ## 발표 세션
@@ -32,7 +32,7 @@
 ## Introduction
 
 - 일시: 2019년 2월 28일 목요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 14층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 14층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/258659987/)]
 
 ## 발표 세션
@@ -47,7 +47,7 @@
 ## Introduction
 
 - 일시: 2019년 1월 31일 목요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/257735196/)]
 
 ## 발표 세션
@@ -62,7 +62,7 @@
 ## Introduction
 
 - 일시: 2018년 12월 20일 목요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청:
   - festa [[link](https://festa.io/events/172)]
   - meetup [[link](https://www.meetup.com/awskrug/events/257050186/)]
@@ -78,7 +78,7 @@
 ## Introduction
 
 - 일시: 2018년 11월 29일 목요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/255829698)]
 
 ## 발표 세션
@@ -97,7 +97,7 @@
 ## Introduction
 
 - 일시: 2018년 10월 25일 목요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/254844272)]
 
 ## 발표 세션
@@ -122,7 +122,7 @@
 ## Introduction
 
 - 일시: 2018년 8월 30일 목요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/253186124/)]
 
 ## 발표 세션
@@ -137,7 +137,7 @@
 ## Introduction
 
 - 일시: 2018년 7월 26일 목요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/252249556/)]
 
 ## 발표 세션
@@ -152,7 +152,7 @@
 ## Introduction
 
 - 일시: 2018년 6월 28일 목요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/251282069/)]
 
 ## 발표 세션
@@ -167,7 +167,7 @@
 ## Introduction
 
 - 일시: 2018년 5월 31일 목요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/250204145/)]
 
 ## 발표 세션
@@ -182,7 +182,7 @@
 ## Introduction
 
 - 일시: 2018년 4월 26일 목요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/249218632/)]
 
 ## 발표 세션
@@ -197,7 +197,7 @@
 ## Introduction
 
 - 일시: 2018년 3월 28일 수요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/248241986/)]
 
 ## 발표 세션
@@ -212,7 +212,7 @@
 ## Introduction
 
 - 일시: 2018년 2월 27일 화요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/247123072/)]
 
 ## 발표 세션
@@ -227,7 +227,7 @@
 ## Introduction
 
 - 일시: 2018년 1월 24일 수요일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/246258812/)]
 
 ## 발표 세션
@@ -242,7 +242,7 @@
 ## Introduction
 
 - 일시: 2017년 12월 27일 오후 7시
-- 장소: 서울시 강남구 역삼1동 논현로85길 46 갈라 빌딩 지하 1층 (지하철 2호선 역삼역 3번 출구에서 도보 5분)
+- 장소: 서울시 강남구 역삼1동 논현로85길 46 갈라 빌딩 지하 1층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/245329775/)]
 
 ## 발표 세션
@@ -257,7 +257,7 @@
 ## Introduction
 
 - 일시: 2017년 11월 22일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/244535010/)]
 
 ## 발표 세션
@@ -272,7 +272,7 @@
 ## Introduction
 
 - 일시: 2017년 10월 25일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/243728154/)]
 
 ## 발표 세션
@@ -287,7 +287,7 @@
 ## Introduction
 
 - 일시: 2017년 9월 27일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/242928340/)]
 
 ## 발표 세션
@@ -302,7 +302,7 @@
 ## Introduction
 
 - 일시: 2017년 8월 29일 오후 7시
-- 장소: 서울시 강남구 논현로 508 GS Tower 12층 (지하철 2호선 역삼역 7번 출구)
+- 장소: 서울시 강남구 논현로 508 GS Tower 12층
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/242582753)]
 
 ## 발표 세션

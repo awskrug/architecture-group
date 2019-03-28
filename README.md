@@ -18,7 +18,7 @@
 #### 발표 세션
 
 - 박성재
-- 
+- 강현구 (HBsmith):
 
 ---
 
@@ -112,7 +112,7 @@
 #### 발표 세션
 
 - 조용진 (모두의캠퍼스): "신입개발자가 스타트업에서 AWS로 어떻게든 살아가는 썰" [[link](https://www.slideshare.net/ssuser67b08e/aws-112573762)]
-- 현창훈 (HBSmith): "HBSmith에서는 AWS 이렇게 사용한다." [[link](https://www.slideshare.net/changhoonhyun/hbsmith-aws)]
+- 현창훈 (HBsmith): "HBSmith에서는 AWS 이렇게 사용한다." [[link](https://www.slideshare.net/changhoonhyun/hbsmith-aws)]
 
 ---
 
@@ -124,7 +124,7 @@
 #### 발표 세션
 
 - 박상원 (DeepNatural CEO): "Sentiment Analysis API on AWS Lambda (feat. SAM, BotHub.Studio)" [[link](https://www.slideshare.net/SangwonPark8/sentiment-analysis-api-on-aws-lambda-feat-sam-bothubstudio-107594101)]
-- 한종원 (HBSmith CEO): "RDS Aurora에 40억건 데이터 입력하기" [[link](https://www.slideshare.net/addnull/20180726-aws-krug-rds-aurora-40-107532095)]
+- 한종원 (HBsmith CEO): "RDS Aurora에 40억건 데이터 입력하기" [[link](https://www.slideshare.net/addnull/20180726-aws-krug-rds-aurora-40-107532095)]
 
 ---
 
@@ -196,7 +196,7 @@
 #### 발표 세션
 
 - 변규현 (Movilest CTO): "Serverless Framework와 CircleCI를 활용한 NoOps맛보기" [[link](https://goo.gl/k8a6tF)]
-- 한종원 (HBSmith CEO): "스타트업부터 대기업까지 AWS와 함께한 7년 (오랫동안 쓰면서 경험한, 알게된 것들)" [[link](https://www.slideshare.net/addnull/20180124-aws-7-86590677)]
+- 한종원 (HBsmith CEO): "스타트업부터 대기업까지 AWS와 함께한 7년 (오랫동안 쓰면서 경험한, 알게된 것들)" [[link](https://www.slideshare.net/addnull/20180124-aws-7-86590677)]
 
 ---
 
@@ -220,7 +220,7 @@
 #### 발표 세션
 
 - 김승호 (Snippod): "Python Scrapy Crawling with AWS Lambda" [[link](https://www.slideshare.net/secret/iYfpVXhn45xGaL)]
-- 윤제상 (HBSmith CTO): "Project TIAMAT" [[link](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)]
+- 윤제상 (HBsmith CTO): "Project TIAMAT" [[link](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)]
 
 ---
 
@@ -255,5 +255,5 @@
 
 #### 발표 세션
 
-- 한종원 (HBSmith CEO) "HB Smith에서는 AWS 이렇게 사용한다." [[link](https://www.slideshare.net/addnull/20170829-hb-smith-aws)]
+- 한종원 (HBsmith CEO) "HB Smith에서는 AWS 이렇게 사용한다." [[link](https://www.slideshare.net/addnull/20170829-hb-smith-aws)]
 - 이상현 (Vingle): "Serverless Microservice Architecture로의 전환"

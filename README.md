@@ -29,7 +29,7 @@
 
 #### 발표 세션
 
-- 김태영 (ZOYI CTO): "On-premise를 이용하는 iot 서비스 aws 리-아키텍쳐 하기"
+- 김태영 (ZOYI CTO): "On-premise를 이용하는 iot 서비스 aws 리-아키텍쳐 하기" [[link](https://www.slideshare.net/TaeYoungKim36/onpremise-iot-aws-139015675)]
 - 정도현 (AWS):
 
 ---

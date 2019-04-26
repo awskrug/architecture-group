@@ -29,8 +29,8 @@
 
 #### 발표 세션
 
-- 박성재
-- 강현구 (HBsmith):
+- 박성재 (뱅크웨어글로벌): (비공개)
+- 강현구 (HBsmith): "Travis CI 에서 CodeBuild 로" [[link](https://www.slideshare.net/HyeonKuKang/travis-ci-codebuild)]
 
 ---
 

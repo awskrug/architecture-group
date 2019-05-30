@@ -17,7 +17,7 @@
 
 #### 발표 세션
 
-- 조용진 (당근마켓): [당근마켓에서 IaC 경험](https://www.slideshare.net/ssuser67b08e/iac-148243077)
+- 조용진 (당근마켓): 당근마켓에서 IaC 경험[link](https://www.slideshare.net/ssuser67b08e/iac-148243077)
 - 승형수 (한국어음중개): (가칭)"Amplify와 Cognito를 이용해서 간단한 인증기능이 있는 웹앱을 시연"
 
 ---

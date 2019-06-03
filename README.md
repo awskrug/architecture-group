@@ -30,7 +30,7 @@
 #### 발표 세션
 
 - 조용진 (당근마켓): "당근마켓에서 IaC 경험" [[link](https://www.slideshare.net/ssuser67b08e/iac-148243077)]
-- 승형수 (한국어음중개): "AWS Amplify & Cognito"
+- 승형수 (한국어음중개): "AWS Amplify & Cognito" [[link](https://www.slideshare.net/LanarkSeung/aws-amplify-cognito)]
 
 ---
 

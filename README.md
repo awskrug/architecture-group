@@ -17,8 +17,8 @@
 
 #### 발표 세션
 
-- TBA
-- TBA
+- 김학민 (AWS)
+- 전준우 (Samsung SDS)
 
 ---
 

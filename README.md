@@ -17,8 +17,8 @@
 
 #### 발표 세션
 
-- 원지혁 "GraphQL과 TypeScript를 활용한 정적 타입 기반의 서비스 아키텍쳐 소개"
-- 김창수 (NaverLabs)
+- 원지혁 (Erion Company) "GraphQL과 TypeScript를 활용한 정적 타입 기반의 서비스 아키텍쳐 소개"
+- 김창수 (NaverLabs) "AWS timeline 살펴보기"
 
 ---
 

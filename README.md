@@ -30,7 +30,7 @@
 #### 발표 세션
 
 - 김학민 (AWS) - "AWS Migration Mechanism & Tools 소개" [[link](https://hakminkim.awsapps.com/workdocs/index.html#/share/document/baa425e8be9325f90e6b7eaa15df53ffad11fff373e11377c06c56ddfc813d32)]
-- 전준우 (Samsung SDS) - "아마존 사용료를 절감하는 새로운 방법 'spotinst' 사용하기"
+- 전준우 (Samsung SDS) - "아마존 사용료를 절감하는 새로운 방법 'spotinst' 사용하기" [[link](https://github.com/awskrug/architecture-group/raw/master/resources/SDS%20Spot-Inst_190829.pdf)]
 
 ---
 

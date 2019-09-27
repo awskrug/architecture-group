@@ -29,7 +29,7 @@
 
 #### 발표 세션
 
-- 이주경(11번가) - "토이 프로젝트로 알아보는 검색 서비스 개발"
+- 이주경(11번가) - "토이 프로젝트로 알아보는 검색 서비스 개발" [[link](https://docs.google.com/presentation/d/1XoNkB-9aDXUJnwrwFxUjhEhfjGa8T2ty1Xb3nNO-PJ8/edit#slide=id.p)]
 - 조용진(당근마켓) - "엘라스틱서치_버전_업데이트_썰.txt"
 
 ---

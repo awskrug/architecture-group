@@ -17,8 +17,8 @@
 
 #### 발표 세션
 
-- 윤석찬(AWS) - [미정]
-- (TBA)
+- 윤제상(HBsmith) - (개발 프로세스 & DevOps 관련된 주제)
+- 신명수(당근마켓) - Using Github action with ArgoCD
 
 ---
 

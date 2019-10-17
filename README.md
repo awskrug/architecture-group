@@ -17,8 +17,8 @@
 
 #### 발표 세션
 
-- 윤제상(HBsmith) - (개발 프로세스 & DevOps 관련된 주제)
-- 신명수(당근마켓) - Using Github action with ArgoCD
+- 윤제상 (HBsmith): (개발 프로세스 & DevOps 관련된 주제)
+- 신명수 (당근마켓): Using Github action with ArgoCD
 
 ---
 
@@ -29,8 +29,8 @@
 
 #### 발표 세션
 
-- 이주경(11번가) - "토이 프로젝트로 알아보는 검색 서비스 개발" [[link](https://docs.google.com/presentation/d/1XoNkB-9aDXUJnwrwFxUjhEhfjGa8T2ty1Xb3nNO-PJ8/edit#slide=id.p)]
-- 조용진(당근마켓) - "엘라스틱서치_버전_업데이트_썰.txt"
+- 이주경 (11번가): "토이 프로젝트로 알아보는 검색 서비스 개발" [[link](https://docs.google.com/presentation/d/1XoNkB-9aDXUJnwrwFxUjhEhfjGa8T2ty1Xb3nNO-PJ8/edit#slide=id.p)]
+- 조용진 (당근마켓): "엘라스틱서치_버전_업데이트_썰.txt"
 
 ---
 
@@ -41,8 +41,8 @@
 
 #### 발표 세션
 
-- 김학민 (AWS) - "AWS Migration Mechanism & Tools 소개" [[link](https://hakminkim.awsapps.com/workdocs/index.html#/share/document/baa425e8be9325f90e6b7eaa15df53ffad11fff373e11377c06c56ddfc813d32)]
-- 전준우 (Samsung SDS) - "아마존 사용료를 절감하는 새로운 방법 'spotinst' 사용하기" [[link](https://github.com/awskrug/architecture-group/raw/master/resources/SDS%20Spot-Inst_190829.pdf)]
+- 김학민 (AWS): "AWS Migration Mechanism & Tools 소개" [[link](https://hakminkim.awsapps.com/workdocs/index.html#/share/document/baa425e8be9325f90e6b7eaa15df53ffad11fff373e11377c06c56ddfc813d32)]
+- 전준우 (Samsung SDS): "아마존 사용료를 절감하는 새로운 방법 'spotinst' 사용하기" [[link](https://github.com/awskrug/architecture-group/raw/master/resources/SDS%20Spot-Inst_190829.pdf)]
 
 ---
 
@@ -53,8 +53,8 @@
 
 #### 발표 세션
 
-- 원지혁 (Erion Company) "GraphQL과 TypeScript를 활용한 정적 타입 기반의 서비스 아키텍쳐 소개"
-- 김창수 (NaverLabs) "AWS Timeline 읽어보기"
+- 원지혁 (Erion Company): "GraphQL과 TypeScript를 활용한 정적 타입 기반의 서비스 아키텍쳐 소개"
+- 김창수 (NaverLabs): "AWS Timeline 읽어보기"
 
 ---
 
@@ -65,8 +65,8 @@
 
 #### 발표 세션
 
-- 김태웅 (무직, kdog) "회사 나와서 잘되자!"
-- 배진호 (새벽두시) "새벽두시 글쓰기 플랫폼 홀로 개발기 - 아키텍처 설계편"
+- 김태웅 (무직, kdog): "회사 나와서 잘되자!"
+- 배진호 (새벽두시): "새벽두시 글쓰기 플랫폼 홀로 개발기 - 아키텍처 설계편"
 
 ---
 

@@ -17,7 +17,7 @@
 
 #### 발표 세션
 
-- 윤제상 (HBsmith): (개발 프로세스 & DevOps 관련된 주제)
+- 윤제상 (HBsmith): DevOps는 원격근무를 추구하면 안되는 것일까?
 - 신명수 (당근마켓): Using Github action with ArgoCD
 
 ---

@@ -28,7 +28,7 @@
 #### 발표 세션
 
 - 윤제상 (HBsmith): "DevOps는 원격근무를 추구하면 안되는 것일까?" [[link](https://www.slideshare.net/jesangyoon/devops-190288417)]
-- 신명수 (당근마켓): "Using Github action with ArgoCD"
+- 신명수 (당근마켓): "Using Github action with ArgoCD" [[link](https://slide.anarcher.dev/2019/using-github-action-with-argocd/)]
 
 ---
 

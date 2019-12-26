@@ -15,7 +15,7 @@
 
 #### 발표 세션
 
-- 차문수 (SuperbAI): (발표 제목 추후 공개)
+- 차문수 (SuperbAI): "Terraform으로 ECS 기반 API 서버 인프라 구축"
 - 한종원 (HBsmith): "LEGACYLAND에서 살아남는 법"
 
 ---

@@ -26,7 +26,7 @@
 #### 발표 세션
 
 - 차문수 (SuperbAI): "Terraform으로 ECS 기반 API 서버 인프라 구축"
-- 한종원 (HBsmith): "LEGACYLAND에서 살아남는 법"
+- 한종원 (HBsmith): "LEGACYLAND에서 살아남는 법" [[link](https://www.slideshare.net/addnull/20191226-legacyland)]
 
 ---
 

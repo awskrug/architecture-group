@@ -15,8 +15,8 @@
 
 #### 발표 세션
 
-- 유병혁
-- 길병찬
+- 길병찬(마루, Viden) - Monorepo와 DevOp 그리고 MSA
+- 유병혁(큐피스트 CUPIST) - Terraform 으로 VPC 와 ECS 기반 컨테이너 서비스 구성하기
 
 ---
 

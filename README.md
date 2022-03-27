@@ -8,7 +8,16 @@
 
 ---
 
-### 30번째 모임 (2020년 1월 30일 목요일 오후 7시)
+### 30번째 모임 (2022년 3월 30일 수요일 오후 19시 30분)
+
+- 장소: AWS Chime [[link](https://chime.aws/awskrug-meetup)]
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/284016377/)]
+
+#### 발표 세션
+
+- 조용진(당근마켓) - "토이프로젝트, AWS를 활용하는 Best Practice를 찾아보자!"
+
+### 30번째 모임 (2020년 1월 30일 목요일 오후 7시) ---- 취소됨
 
 - 장소: 서울특별시 강남구 테헤란로4길 14 미림타워, 14층 당근마켓 라운지
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/267440803/)]

@@ -7,7 +7,7 @@
 - 지난 모임 참가자(누적): 793명
 
 ---
-# 31번째 모임 (2022년 3월 30일 수요일 오후 19시 30분)
+# 31번째 모임 (2022년 4월 28일 수요일 오후 19시 30분)
 
 - 장소: AWS Chime [[link](https://chime.aws/awskrug-meetup)]
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/284946336/)]

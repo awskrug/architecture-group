@@ -7,10 +7,32 @@
 - 지난 모임 참가자(누적): 863명
 
 ---
+# 33번째 모임 (2022년 6월 30일 목요일 오후 19시 30분)
+
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/284946336/)]
+- 온라인 장소: AWS Chime [[link](https://chime.aws/awskrug-meetups)]
+- 오프라인 장소: 당근마켓 11층 B
+
+#### 발표 세션
+
+- 윤서율(SK C&C) - [인프라 벤치마크 테스트 잘 해보기](https://www.slideshare.net/SeoyulYoon/awskrug331pdf)
+- 정도현(AWS) - **시니어 개발자를 위한 전직 가이드** ~전직했더니 테크니컬 트레이너였던 건에 대하여~
+
+# 32번째 모임 (2022년 6월 30일 목요일 오후 19시 30분)
+
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/285642570/)]
+- 온라인 장소: AWS Chime [[link](https://chime.aws/awskrug-meetups)]
+- 오프라인 장소: AB180 사당 사옥
+
+#### 발표 세션
+
+- 정주홍(AB180) - [Athena로 CloudWatch logs query하기](https://engineering.ab180.co/stories/athena-cloudwatch-logs-query)
+
+
 # 31번째 모임 (2022년 4월 28일 수요일 오후 19시 30분)
 
-- 장소: AWS Chime [[link](https://chime.aws/awskrug-meetups)]
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/284946336/)]
+- 장소: AWS Chime [[link](https://chime.aws/awskrug-meetups)]
 
 #### 발표 세션
 

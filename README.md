@@ -7,6 +7,17 @@
 - 지난 모임 참가자(누적): 863명
 
 ---
+# 34번째 모임 (2022년 7월 28일 목요일 오후 7시 30분)
+
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/287163513/)]
+- 온라인 장소: AWS Chime [[link](https://chime.aws/awskrug-meetups)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 18층 센터필드EAST http://naver.me/G6FSojK5
+
+#### 발표 세션
+
+- 하지양(한국공간데이터) - AWS ELK 가성비 구성
+- 정주홍(AB180) - [AWS ECS EC2 Cost Optimization](https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization)
+
 # 33번째 모임 (2022년 6월 30일 목요일 오후 19시 30분)
 
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/284946336/)]

@@ -12,7 +12,7 @@
 
 #### 발표 세션
 
-- 유용환(SuperbAI) - 카프카를 활용한 실시간 데이터 동기화 파이프라인 (feat. CDC)
+- 유용환(SuperbAI) - 카프카를 활용한 실시간 데이터 동기화 파이프라인 (feat. CDC)[link](./resources/real_time_data_sync_pipeline_with_kafka_220825.pdf)
 - 우성진(엔카닷컴) - 개발, 릴리즈 속도를 높여주는 EKS기반 GitOps
 
 ---

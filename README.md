@@ -6,7 +6,7 @@
 ---
 # 38번째 모임 (2023년 01월 26일 목요일 오후 7시 30분)
 
-- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/289622106/)]
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/290763801/)]
 - 온라인 장소: AWS Chime [[link](https://chime.aws/awskrug-meetups)]
 - 오프라인 장소: 서울 서초구 강남대로 465길 교보타워 11층 B구역 당근마켓 https://naver.me/FbRqJDtS
 

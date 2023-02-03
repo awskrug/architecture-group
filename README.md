@@ -4,6 +4,30 @@
 - 회비: 5,000원 (카카오뱅크: 3333-08-5823684, 예금주: 조용진)
 
 ---
+# 38번째 모임 (2023년 01월 26일 목요일 오후 7시 30분)
+
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/290763801/)]
+- 온라인 장소: AWS Chime [[link](https://chime.aws/awskrug-meetups)]
+- 오프라인 장소: 서울 서초구 강남대로 465길 교보타워 11층 B구역 당근마켓 https://naver.me/FbRqJDtS
+
+#### 발표 세션
+
+- 조용진(당근마켓) - 당근검색팀에서 일하는 이야기
+- 이지영(백패커) - WAF 운영 경험 나누기
+
+---
+# 37번째 모임 (2022년 11월 24일 목요일 오후 7시 30분)
+
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/289622106/)]
+- 온라인 장소: AWS Chime [[link](https://chime.aws/awskrug-meetups)]
+- 오프라인 장소: 서울 서초구 강남대로 465길 교보타워 11층 B구역 당근마켓 https://naver.me/FbRqJDtS
+
+#### 발표 세션
+
+- 김동일 - 자격증 시험 문제를 실무에 도입해보자.
+- 윤평호 - (게임아키텍쳐 관련된 주제 something..)
+
+---
 # 35번째 모임 (2022년 8월 25일 목요일 오후 7시 30분)
 
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/287714457/)]

@@ -1,7 +1,41 @@
 # AWS KRUG architecture 소모임
 
 - Slack channel: #architecture
-- 회비: 5,000원 (카카오뱅크: 3333-08-5823684, 예금주: 조용진)
+- 회비: 5,000원 (입금 방법: 토스뱅크: 1000-6285-0619, 예금주: 조용진)
+
+---
+# 41번째 모임 (2023년 04월 27일 목요일 오후 7시 30분)
+
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/292914169/)]
+- 온라인 장소: AWS Chime [[link](https://chime.aws/awskrug-meetups)]
+- 오프라인 장소: 서울 성동구 아차산로13길 11 무신사 캠퍼스 N1 2층 201호 https://naver.me/xv06BaDG
+
+#### 발표 세션
+
+- AWS를 활용하여 "가상의 (트x)튜위터 서비스" 의 시작과 현재 모습까지의 시스템 디자인을 함께 해보자
+
+---
+# 40번째 모임 (2023년 03월 30일 목요일 오후 7시 30분)
+
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/292066662/)]
+- 온라인 장소: AWS Chime [[link](https://chime.aws/awskrug-meetups)]
+- 오프라인 장소: 서울 서초구 강남대로 465길 교보타워 11층 B구역 당근마켓 https://naver.me/FbRqJDtS
+
+#### 발표 세션
+
+- 황주필(컨플루언트 코리아) - 컨플루언트 클라우드(카프카 서버리스 서비스)로 데이터 연계하기
+
+---
+# 39번째 모임 (2023년 02월 23일 목요일 오후 7시 30분)
+
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/291551474/)]
+- 온라인 장소: AWS Chime [[link](https://chime.aws/awskrug-meetups)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GfPiwMXI
+
+#### 발표 세션
+
+- 경태훈(AWS SA) - Media LIve Streaming on AWS
+- 이병호(스타트업) - devops 2년차 이직 성공기
 
 ---
 # 38번째 모임 (2023년 01월 26일 목요일 오후 7시 30분)

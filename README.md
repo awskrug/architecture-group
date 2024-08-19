@@ -4,6 +4,16 @@
 - 회비: 10,000원 (입금 방법: 토스뱅크: 1000-6285-0619, 예금주: 조용진)
 
 ---
+# 49번째 모임 (2024년 08월 29일 목요일 오후 7시 30분)
+
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/302664041/)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GpJfcUQW
+
+#### 발표 세션
+
+- 김한성(AWS KRUG) - "EKS가 managed service 맞나요…?"
+
+---
 # 48번째 모임 (2024년 06월 27일 목요일 오후 7시 30분)
 
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/301554847/)]
@@ -12,21 +22,37 @@
 #### 발표 세션
 
 - 자격증 시험 문제를 실무에 도입해보자. Part3
+
 ---
 # 47번째 모임 (2024년 02월 29일 목요일 오후 7시 30분)
 
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/298921546/)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GpJfcUQW
+
+#### 발표 세션
+
+- 정도현(AWS) - 전직했더니 물경력이었던 건에 대하여
   
 ---
 # 46번째 모임 (2024년 01월 25일 목요일 오후 7시 30분)
 
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/298273910/)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GpJfcUQW
+
+#### 발표 세션
+
+- 이병호 - 데이터독 도입기 : 2달간의 POC 진행 리뷰
   
 ---
 # 45번째 모임 (2023년 11월 30일 목요일 오후 7시 30분)
 
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/297234132/)]
-  
+- 오프라인 장소: 서울 서초구 강남대로 465길 교보타워 11층 B구역 당근마켓 https://naver.me/FbRqJDtS
+
+#### 발표 세션
+
+- 박상운(리콘랩스) - Lambda의 두가지 특별한 활용방법
+   
 ---
 # 44번째 모임 (2023년 07월 27일 목요일 오후 7시 30분)
 

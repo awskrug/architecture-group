@@ -4,6 +4,27 @@
 - 회비: 10,000원 (입금 방법: 토스뱅크: 1000-6285-0619, 예금주: 조용진)
 
 ---
+# 51번째 모임 (2025년 3월 27일 목요일 오후 7시 30분)
+
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/306392698/)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GpJfcUQW
+
+#### 발표 세션
+
+- 엄준영(소프트웨어 엔지니어, 무신사), 박상운(테크리더, AWS 강의실) : 변화하는 RDB 데이터를 놓치지 않는 실시간 스트리밍 아키텍처 이야기
+- 박상운(테크리더, AWS 강의실) : AWS Lambda Function URL과 CloudFront Origin 연동으로 구현한 실시간 스트리밍 구현
+
+---
+# 50번째 모임 (2024년 10월 31일 목요일 오후 7시 30분)
+
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/303631742/)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GpJfcUQW
+
+#### 발표 세션
+
+- 손광락(Couchbase Solutions Engineer) - "AWS 기반 카우치베이스 벡터 검색을 활용한 AI Powered, LLM/RAG 어플리케이션 구축"
+
+---
 # 49번째 모임 (2024년 08월 29일 목요일 오후 7시 30분)
 
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/302664041/)]

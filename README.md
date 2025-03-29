@@ -8,6 +8,8 @@
 
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/306392698/)]
 - 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GpJfcUQW
+- 발표자료 : [Lambda_function_url_cloudfront.pdf](https://github.com/user-attachments/files/19515466/Lambda_function_url_cloudfront.pdf)
+
 
 #### 발표 세션
 

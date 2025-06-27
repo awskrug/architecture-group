@@ -4,6 +4,13 @@
 - 회비: 10,000원 (입금 방법: 토스뱅크: 1000-6285-0619, 예금주: 조용진)
 
 ---
+# 52번째 모임 (2025년 6월 28일 목요일 오후 7시)
+
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/306392698/)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GpJfcUQW
+- 발표자료 : [AWSKRUG-ARchitecture-Hands-on 발표자료.pdf](https://github.com/user-attachments/files/20940045/AWSKRUG-ARchitecture-Hands-on.pdf)
+
+
 # 51번째 모임 (2025년 3월 27일 목요일 오후 7시 30분)
 
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/306392698/)]

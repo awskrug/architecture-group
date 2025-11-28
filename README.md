@@ -4,6 +4,12 @@
 - 회비: 10,000원 (입금 방법: 토스뱅크: 1000-6285-0619, 예금주: 조용진)
 
 ---
+# 54번째 모임 (2025년 11월 27일 목요일 오후 7시)
+
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/311852046/)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GpJfcUQW
+- 발표자료 : https://docs.google.com/presentation/d/1HhcrGb9_5TfQA02vc_0rlokAy4NPdU2OU3y4-ZimZA4/edit?usp=drivesdk
+---
 # 52번째 모임 (2025년 6월 28일 목요일 오후 7시)
 
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/306392698/)]

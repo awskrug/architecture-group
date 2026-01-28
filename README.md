@@ -10,6 +10,11 @@
 - 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GpJfcUQW
 - 발표자료 : https://docs.google.com/presentation/d/1HhcrGb9_5TfQA02vc_0rlokAy4NPdU2OU3y4-ZimZA4/edit?usp=drivesdk
 ---
+# 53번째 모임 (2025년 8월 28일 목요일 오후 7시)
+
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/310365030/)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GpJfcUQW
+---
 # 52번째 모임 (2025년 6월 28일 목요일 오후 7시)
 
 - 참가 신청 [[link](https://www.meetup.com/awskrug/events/306392698/)]
@@ -604,3 +609,4 @@
 
 - 한종원 (HBsmith CEO) "HB Smith에서는 AWS 이렇게 사용한다." [[link](https://www.slideshare.net/addnull/20170829-hb-smith-aws)]
 - 이상현 (Vingle): "Serverless Microservice Architecture로의 전환"
+

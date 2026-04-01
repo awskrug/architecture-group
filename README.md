@@ -3,6 +3,19 @@
 - Slack channel: #architecture
 - 회비: 10,000원 (입금 방법: 토스뱅크: 1000-6285-0619, 예금주: 조용진)
 
+# 56번째 모임 (2026년 3월 31일 목요일 오후 7시)
+
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/313714237/)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 12층 트레이닝룸 https://naver.me/GpJfcUQW
+- 발표자료 : [Private_bedrock.pdf](https://github.com/user-attachments/files/26395475/Private_bedrock.pdf)
+
+---
+# 55번째 모임 (2026년 2월 26일 목요일 오후 7시)
+
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/313095295)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GpJfcUQW
+- 발표자료 : [2026.02.26 AWSKRUG 아키텍처 소모임 AWS re_Invent 2025 re_Cap.pdf](https://github.com/user-attachments/files/26395454/2026.02.26.AWSKRUG.AWS.re_Invent.2025.re_Cap.pdf)
+
 ---
 # 54번째 모임 (2025년 11월 27일 목요일 오후 7시)
 
